@@ -1,23 +1,21 @@
-# Center for AI in Chemistry
+# Center for AI in Chemistry | ITMO University, SCAMT
 
-## ChemX
 
-### [ChemX](https://github.com/ai-chem/ChemX)
+Welcome to the official GitHub of the Center for AI in Chemistry! We are part of the [SCAMT](https://scamt.itmo.ru/) Chemistry and Biology Cluster at ITMO University.
 
-Contains 10 datasets with chemical information that was **manually** collected from scientific papers.
+Our center is a community of young scientists and graduate students dedicated to shifting the paradigm of materials design for medicine and energy. We leverage big data and predictive machine learning algorithms to solve complex scientific challenges without 'wet' chemistry.
 
-### [ChemX-dbt](https://github.com/ai-chem/ChemX-dbt)
+### Featured Repositories
 
-Contains database models to use ChemX datasets and build ETL pipelines.
+Here you will find our key open-source projects.
 
-### [ChemX-backend](https://github.com/ai-chem/ChemX-backend)
+*   **[ChemX](https://github.com/ai-chem/ChemX)**  
+    An ecosystem for working with chemical data, providing everything you need: a collection of 10 datasets,
+    dbt models for ETL, an API backend for data access,
+    a Python client for integration, and ready-to-use RAG application examples.
 
-Contains backend code to serve ChemX datasets via API.
+*   **[nanoMINER](https://github.com/ai-chem/nanoMINER)**  
+    This repository contains a cutting-edge multi-agent system that integrates large language models with multimodal analysis to extract crucial information on nanomaterials from research articles.
 
-### [ChemX-RAG](https://github.com/ai-chem/ChemX-RAG)
-
-Contains code to build Retrieval-Augmented Generation (RAG) applications using ChemX datasets.
-
-### [ChemX-client-python](https://github.com/ai-chem/chemx-client-python)
-
-Contains a Python client for accessing ChemX datasets via the API.
+*   **[DiZyme](https://github.com/ai-chem/DiZyme)**  
+    The DiZyme - web-resource for rational design of nanozymes using machine learning algorithms.
