@@ -1,7 +1,7 @@
 # Center for AI in Chemistry | ITMO University, SCAMT
 
 
-Welcome to the official GitHub of the Center for AI in Chemistry! We are part of the [SCAMT](https://scamt.itmo.ru/) Chemistry and Biology Cluster at ITMO University.
+Welcome to the official GitHub of the Center for AI in Chemistry! We are part of the [Advanced Engineering School](https://pish.itmo.ru) of ITMO University.
 
 Our center is a community of young scientists and graduate students dedicated to shifting the paradigm of materials design for medicine and energy. We leverage big data and predictive machine learning algorithms to solve complex scientific challenges without 'wet' chemistry.
 
